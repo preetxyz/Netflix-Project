@@ -6,7 +6,7 @@ This repository contains the Power BI dashboard for Netflix.
 ## Files
 
 - Netflix_dashboard.pbix: The Power BI dashboard file.
-- dataset.csv: The dataset used for the dashboard.
+- netflix_titles.csv: The dataset used for the dashboard.
 
 ## Instructions
 
