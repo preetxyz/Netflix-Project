@@ -1,9 +1,10 @@
+Power BI Dashboard for Netflix Data
 
-#Power BI Dashboard for Netflix Data
 This project involves creating an interactive dashboard using Power BI to analyze Netflix data. The dashboard provides various visualizations and insights into the content available on Netflix.
 
 
 ##Installation
+
 To view and interact with the dashboard, you need Power BI Desktop installed on your computer. You can download it from the official Power BI website.
 
 Open Power BI Desktop.
@@ -27,6 +28,7 @@ Duration
 Genre
 
 ##Visualizations
+
 The dashboard includes the following visualizations:
 
 Genre and rating by show type.
